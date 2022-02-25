@@ -1,0 +1,2 @@
+# AWS-S3-Recon-Attack-Mitigation
+As many companies are hosting their applications on AWS(Cloud), Its most important for the Organisations to protect their AWS storage environment to protect sensitive data from the attackers. I have tried to explain how an attack can be planted on S3 storage of AWS with a vulnerable aws application &amp; Misconfiguration followed by Mitigation(Best practices) for the same
